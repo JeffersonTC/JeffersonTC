@@ -1,5 +1,5 @@
-## Hi there 👋
-
+¡Hola! Soy Jefferson 👋
+Soy un desarrollador aprendiz Manejo tecnologías como HTML, CSS y JavaScript
 <!--
 **JeffersonTC/JeffersonTC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
